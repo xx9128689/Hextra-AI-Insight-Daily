@@ -4,50 +4,51 @@ type: page
 sidebar:
   exclude: true
 ---
-# Terms of Service
 
-*Effective Date: June 1, 2025*
+# 服务条款
+
+*生效日期：2025年6月1日*
 
 ---
 
-Hey there! 👋 Welcome to our website (aka "**this site**" or "**we**"). Before you dive in, please make sure you give these Terms of Service a good read. By hopping on or using this site, you're totally agreeing to and accepting all these terms.
+欢迎访问本网站（以下简称“**本站**”或“**我们**”）。请在使用本站服务之前，仔细阅读以下服务条款。您访问或使用本站即表示您同意并接受本条款。
 
-## 1. What We Offer
-Our Services: We're all about hooking you up with paid subscription content and membership services. This includes, but isn't limited to, blog posts, exclusive resources, e-books, and community interaction. FYI, some of the good stuff is only accessible to our awesome subscribers. 😉
+## 1. 服务简介
+本站为用户提供付费订阅内容和会员服务，包括但不限于博客文章、专属资源、电子书、社区互动等。部分内容仅限订阅用户访问。
 
-## 2. Your Account & Registration
-*   To snag an account, you'll need to provide a valid email address and set up a password.
-*   You're on the hook for your account's security and all activities under it. And seriously, **no transferring or sharing** your account!
-*   If you break these terms, **we've got the right to suspend or terminate** your account. Just sayin'.
+## 2. 用户注册与账户
+- 用户需提供有效的电子邮件地址和设置密码以注册账户。
+- 用户应对其账户的安全性和所有活动负责，**禁止**将账户转让或共享。
+- 本站有权在用户违反本条款的情况下，**暂停或终止**其账户。
 
-## 3. Paid Subscriptions
-*   Our subscription services are billed monthly or yearly, and you'll see the exact cost clearly laid out on the checkout page.
-*   All payments go through third-party payment platforms (like Stripe or PayPal), so rest assured, we never store your payment info ourselves. Pretty neat, huh?
-*   Heads up! Your subscription will **auto-renew** unless you cancel it before your current billing cycle ends.
-*   Unless the law says otherwise or it's part of a special promo, once you've paid, there are **no refunds**. Just so you know! 🤷‍♀️
+## 3. 付费订阅服务
+- 订阅服务基于月度/年度计费，费用在结算页面明示。
+- 所有付款通过第三方支付平台（如 Stripe、PayPal）完成，本站不存储您的支付信息。
+- 订阅将**自动续费**，除非您在当前计费周期结束前取消。
+- 除非法律强制或在特定促销中另有说明，付款后**不予退款**。
 
-## 4. Content Usage & Intellectual Property
-*   All our original content is **copyrighted by us**. So, no copying, republishing, or using it for commercial purposes without our permission, okay? 😉
-*   You only get a **non-exclusive, non-transferable right to access** our content, purely for your personal learning and reading pleasure. Keep it to yourself!
-*   Need it for commercial use or want to quote a lot? Please hit us up to get authorization first! We're pretty chill, just ask. 👍
+## 4. 内容使用与知识产权
+- 所有原创内容**版权归本站所有**，未经授权不得复制、转载或用于商业用途。
+- 用户仅获得**非排他、不可转让的访问权**，用于个人学习和阅读。
+- 如需商业用途或大量引用，请联系本站获取授权。
 
-## 5. User Conduct Guidelines
-*   **Don't even think about** uploading, posting, or spreading any content that's illegal, harassing, false, offensive, or infringes on anyone else's rights. Seriously, don't! 🚫
-*   And a big **no-no** to bulk downloading, scraping, or cracking our member-only content using any technical wizardry.
-*   We absolutely have the right to remove any inappropriate content and **ban users** who don't play by the rules. Consider yourself warned! 🛡️
+## 5. 用户行为规范
+- **禁止**上传、发布或传播任何非法、骚扰、虚假、攻击性、侵犯他人权利的内容。
+- **禁止**通过技术手段批量下载、抓取、破解会员内容。
+- 本站有权移除不当内容并**封禁违规用户**。
 
-## 6. Service Changes & Interruptions
-*   We reserve the right to change, suspend, or terminate any or all of our services at any time, without giving you prior notice. Just a heads-up!
-*   If our content becomes temporarily unavailable due to force majeure, server glitches, or third-party service interruptions, **we won't be liable for any compensation**. Bummer, we know! 😔
+## 6. 服务变更与中断
+- 我们保留随时更改、暂停或终止部分或全部服务的权利，恕不另行通知。
+- 如因不可抗力、服务器故障或第三方服务中断导致内容暂时无法访问，本站**不承担赔偿责任**。
 
-## 7. Disclaimer
-*   The info we provide is just for general reference, folks! It **doesn't constitute** any kind of professional advice (like financial, legal, or medical stuff). So, don't take it as gospel!
-*   For any direct or indirect losses you might incur from using our content or services, **we take absolutely no responsibility**. Just wanted to make that crystal clear! 🙅‍♂️
+## 7. 免责声明
+- 本站提供的信息仅供参考，**不构成**任何专业建议（如财务、法律、医疗等）。
+- 对于用户因使用本站内容或服务所产生的任何直接或间接损失，本站**概不负责**。
 
-## 8. Governing Law
-*   These Terms of Service are governed by and interpreted under the laws of California, USA, without regard to any conflict of law principles. West Coast vibes! 😎
-*   Any disputes popping up from or related to these terms? First off, let's try to hash it out amicably. If that doesn't work, you agree to submit to the exclusive jurisdiction of the courts in Santa Clara County, California. So, see ya in Cali! ⚖️
+## 8. 法律适用
+- 本服务条款适用美国加利福尼亚州法律，并按其解释，不考虑法律冲突原则。
+- 因本条款引起的或与本条款相关的任何争议，双方应首先友好协商解决；若协商未果，您同意提交加利福尼亚州圣克拉拉县具有管辖权的法院解决。
 
-## 9. Get In Touch
-*   Got any burning questions about these terms? Feel free to hit us up via the following:
-*   **Email**: [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
+## 9. 联系方式
+- 如对本条款有任何疑问，请通过以下方式联系我们：
+- 📧 **邮箱**： [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
